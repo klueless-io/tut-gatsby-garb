@@ -6,7 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "gatsby": "^2.18.13",
+    "gatsby": "^2.31.0",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-manifest": "^2.2.30",
     "gatsby-plugin-offline": "^3.0.24",
@@ -15,7 +15,7 @@
     "gatsby-plugin-snipcart": "^1.1.2",
     "gatsby-remark-external-links": "0.0.4",
     "gatsby-remark-images": "^3.1.38",
-    "gatsby-source-contentful": "^2.1.72",
+    "gatsby-source-contentful": "^3.0.4",
     "gatsby-source-filesystem": "^2.1.39",
     "gatsby-transformer-remark": "^2.6.42",
     "gatsby-transformer-sharp": "^2.3.6",
